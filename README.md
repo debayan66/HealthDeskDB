@@ -1,4 +1,4 @@
-# pylab
+# HealthDeskDB
 Hospital Management System (HMS) - Python & MySQL
 
 This is a console-based Hospital Management System implemented in Python with MySQL as the backend database. The system allows hospital staff to manage doctors, patients, admissions, daily charges, and billing in an organized manner. The Tabulate library is used for displaying reports in a tabular format for better readability.
