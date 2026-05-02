@@ -1,5 +1,5 @@
 import mysql.connector
-con = mysql.connector.connect(host='localhost',user='root',password='qwerty',database='assign1',auth_plugin='mysql_native_password')
+con = mysql.connector.connect(host='localhost',user="mysql_username",password="your_password",database="your_database",auth_plugin="mysql_native_password")
 cur = con.cursor()
 from tabulate import tabulate
 
